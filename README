@@ -1,3 +1,13 @@
+## This is a fork
+
+Please check the original, this fork merges in the following fix:
+
+https://github.com/JamieAppleseed/selectToAutocomplete/pull/56
+
+
+---------------
+
+
 Select To Autocomplete: Redesigned Country Selector
 
 An improved way to select a country in web forms.
